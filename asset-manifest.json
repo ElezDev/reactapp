@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ElezDev/reactapp/static/css/main.6533188e.css",
+    "main.js": "/ElezDev/reactapp/static/js/main.c308980d.js",
+    "static/js/787.5480e000.chunk.js": "/ElezDev/reactapp/static/js/787.5480e000.chunk.js",
+    "index.html": "/ElezDev/reactapp/index.html",
+    "main.6533188e.css.map": "/ElezDev/reactapp/static/css/main.6533188e.css.map",
+    "main.c308980d.js.map": "/ElezDev/reactapp/static/js/main.c308980d.js.map",
+    "787.5480e000.chunk.js.map": "/ElezDev/reactapp/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6533188e.css",
+    "static/js/main.c308980d.js"
+  ]
+}
